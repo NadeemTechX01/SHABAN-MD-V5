@@ -22,7 +22,7 @@
 
 <p align="center">
 <a href="https://github.com/MRSHABAN/SHABAN-MD"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=square&color=darkpink"></a> &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=SHABAN-MD&label=VIEWS&style=square&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=King-MD&label=VIEWS&style=square&color=blue" />
 </p>
 </p> 
 
@@ -50,7 +50,7 @@ href="https://github.com/MRSHABAN40/SHABAN-MD-V5/graphs/commit-activity"><img he
 
   **⛓️‍💥 NEW SESSION WEB ADDED**
   
-  <a href='https://pti-pair.onrender.com/' target="_blank">
+  <SHABAN-MD~rVt1FSwL#FyyPuxFMIQlwNs_fAPB_rW_BEFqSATMgYJN7FdoBC4I">
     <img src='https://img.shields.io/badge/PAIR_CODE-FF0000?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
   </a></br>
 
